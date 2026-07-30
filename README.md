@@ -1,5 +1,7 @@
 💙 My First TypeScript Program
 
+📖 Description
+
 This is my first TypeScript program. It introduces me and demonstrates the basics of TypeScript, including variables, data types, and printing output to the console.
 
 ✨ Features
