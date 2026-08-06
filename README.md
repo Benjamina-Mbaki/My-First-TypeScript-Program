@@ -1,20 +1,35 @@
-💙 My First TypeScript Program
+💙🔷 My First TypeScript Program
 
-📖 Description
+## 📖 Description
 
-This is my first TypeScript program. It introduces me and demonstrates the basics of TypeScript, including variables, data types, and printing output to the console.
+This is my first TypeScript program. It is a simple beginner project that introduces myself and displays some basic information using TypeScript.
 
-✨ Features
+The program prints my name, age, favourite colour, and the programming languages I enjoy learning.
 
-- Displays my name
-- Displays my age
-- Shows my favourite colour
-- Mentions the programming languages I enjoy learning
+## ✨ Features
 
-🛠️ Technologies Used
+- 👩‍💻 Displays my name
+- 🎂 Displays my age
+- 💜 Displays my favourite colour
+- 💻 Displays the programming languages I enjoy learning
+- 🖥️ Outputs information to the console
+
+## 🛠️ Technologies Used
 
 - TypeScript
 - Node.js
+- Visual Studio Code
+
+## 📚 What I Learned
+
+Through this project, I learned:
+
+- How to create TypeScript variables
+- How to use TypeScript data types
+- How to use `string` and `number`
+- How to use `console.log()`
+- How to compile TypeScript into JavaScript
+- How to run JavaScript using Node.js
 
 👩‍💻 Author
 
